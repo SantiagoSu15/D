@@ -7,4 +7,5 @@ El experimento consiste en hacer pasar luz  (en este caso un laser),a través de
 
 
 #Fotos 
-![WhatsApp Image 2024-09-26 at 9 30 44 PM](https://github.com/user-attachments/assets/94b910dd-6cdb-42b1-b18a-5d31391b7fca)
+https://github.com/user-attachments/assets/adfd145d-7747-48e2-8638-2191cd645d7e
+
